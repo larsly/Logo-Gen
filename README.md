@@ -6,7 +6,7 @@
 
 A note taking app
 
-Deployed on Heroku:
+Deployed on Heroku: https://note-taker-larsly-29cdb6444256.herokuapp.com
 
 ## Installation Instructions
 
